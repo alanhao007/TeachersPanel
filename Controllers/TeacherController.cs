@@ -12,7 +12,7 @@ namespace AdminPanel.Controllers
         IWebHostEnvironment _environment;
 
         public TeacherService TeacherService { get; }
-
+        //создал
         TeacherService _TeacherService;
         public TeacherController(ApplicationContext context, IWebHostEnvironment env)
         {
